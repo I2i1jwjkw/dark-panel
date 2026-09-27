@@ -1,0 +1,9 @@
+.env
+*.db
+*.sqlite
+node_modules/
+dist/
+coverage/
+*.log
+xray/config.json
+xray/certs/
